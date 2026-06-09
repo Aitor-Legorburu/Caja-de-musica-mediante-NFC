@@ -3,7 +3,7 @@
 
 Proyecto desarrollado para reproducir pistas de audio mediante tarjetas NFC. Cada tarjeta actúa como un "disco musical" que, al acercarse al lector NFC, es identificada por el sistema y desencadena la reproducción automática de un archivo de audio almacenado en una tarjeta microSD.
 
-El sistema está diseñado para ofrecer una experiencia similar a una caja de música moderna, permitiendo asociar diferentes canciones o narraciones a distintas tarjetas NFC de forma sencilla e intuitiva.
+El sistema está diseñado para ofrecer una experiencia similar a una caja de música moderna, permitiendo asociar diferentes canciones o narraciones a distintas tarjetas NFC.
 
 ## Funcionalidades
 
